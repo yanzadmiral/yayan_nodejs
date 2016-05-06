@@ -1,0 +1,17 @@
+{
+  "name": "server-file-statik",
+  "version": "1.0.0",
+  "description": "web pertama saya untuk mencoba node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "haloo"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "morgan": "^1.7.0",
+    "mysql": "^2.10.2",
+    "sqlite3": "^3.1.3"
+  }
+}
